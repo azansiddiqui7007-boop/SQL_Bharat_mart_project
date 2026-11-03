@@ -1,0 +1,41 @@
+customer_id,customer_name,email,city,state,signup_date
+1,Divya Nair,divya.nair1@example.com,Pune,Maharashtra,2022-08-31
+2,Ankit Mehta,ankit.mehta2@example.com,Pune,Maharashtra,2023-02-27
+3,Arjun Nair,arjun.nair3@example.com,Kanpur,Uttar Pradesh,2024-03-12
+4,Nisha Yadav,nisha.yadav4@example.com,Bengaluru,Karnataka,2022-10-01
+5,Ankit Nair,ankit.nair5@example.com,Mumbai,Maharashtra,2023-01-27
+6,Suresh Iyer,suresh.iyer6@example.com,Bengaluru,Karnataka,2022-07-24
+7,Sneha Patel,,Bengaluru,Karnataka,2022-08-17
+8,Nitin Singh,nitin.singh8@example.com,Lucknow,Uttar Pradesh,2022-12-03
+9,Swati Verma,swati.verma9@example.com,Hyderabad,Telangana,2022-12-26
+10,Isha Das,isha.das10@example.com,Kanpur,Uttar Pradesh,2022-01-29
+11,Pranav Patel,pranav.patel11@example.com,Pune,Maharashtra,2023-08-18
+12,Priya Verma,priya.verma12@example.com,Lucknow,Uttar Pradesh,2022-12-20
+13,Riya Joshi,riya.joshi13@example.com,Mumbai,Maharashtra,2023-01-30
+14,Karan Sharma,karan.sharma14@example.com,Lucknow,Uttar Pradesh,2022-01-02
+15,Amit Reddy,,Mumbai,Maharashtra,2023-11-12
+16,Divya Mishra,divya.mishra16@example.com,Mumbai,Maharashtra,2024-01-08
+17,Meera Patel,meera.patel17@example.com,Lucknow,Uttar Pradesh,2022-12-01
+18,Shruti Patel,shruti.patel18@example.com,Pune,Maharashtra,2022-07-16
+19,Isha Reddy,isha.reddy19@example.com,Pune,Maharashtra,2023-09-23
+20,Riya Khan,riya.khan20@example.com,Delhi,Delhi,2022-11-08
+21,Pooja Reddy,pooja.reddy21@example.com,Kanpur,Uttar Pradesh,2023-04-22
+22,Anjali Yadav,,Bengaluru,Karnataka,2023-06-08
+23,Nisha Agarwal,nisha.agarwal23@example.com,Pune,Maharashtra,2023-11-06
+24,Karan Khan,karan.khan24@example.com,Kanpur,Uttar Pradesh,2022-04-06
+25,Nitin Patel,nitin.patel25@example.com,Bengaluru,Karnataka,2024-04-05
+26,Arjun Sharma,arjun.sharma26@example.com,Delhi,Delhi,2022-09-08
+27,Divya Das,divya.das27@example.com,Mumbai,Maharashtra,2023-04-12
+28,Aditi Yadav,aditi.yadav28@example.com,Bengaluru,Karnataka,2024-01-06
+29,Anjali Reddy,anjali.reddy29@example.com,Bengaluru,Karnataka,2022-06-01
+30,Pranav Mehta,pranav.mehta30@example.com,Mumbai,Maharashtra,2024-03-08
+31,Pooja Gupta,,Chennai,Tamil Nadu,2022-02-21
+32,Pranav Das,pranav.das32@example.com,Mumbai,Maharashtra,2023-04-13
+33,Ankit Iyer,ankit.iyer33@example.com,Kanpur,Uttar Pradesh,2024-02-13
+34,Divya Das,divya.das34@example.com,Lucknow,Uttar Pradesh,2024-04-30
+35,Aditi Gupta,aditi.gupta35@example.com,Chennai,Tamil Nadu,2023-04-06
+36,Nisha Singh,nisha.singh36@example.com,Hyderabad,Telangana,2024-02-24
+37,Isha Singh,isha.singh37@example.com,Hyderabad,Telangana,2023-03-27
+38,Deepak Patel,,Bengaluru,Karnataka,2022-10-06
+39,Sneha Agarwal,sneha.agarwal39@example.com,Mumbai,Maharashtra,2022-05-22
+40,Rohan Reddy,rohan.reddy40@example.com,Pune,Maharashtra,2023-12-25

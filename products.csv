@@ -1,0 +1,26 @@
+product_id,product_name,category,price,stock_qty
+1,Wireless Mouse,Electronics,799,54
+2,Bluetooth Speaker,Electronics,2499,16
+3,USB-C Cable,Electronics,299,106
+4,Smartphone,Electronics,15999,104
+5,Headphones,Electronics,1899,84
+6,Power Bank,Electronics,1499,138
+7,Cotton T-Shirt,Clothing,499,119
+8,Denim Jeans,Clothing,1299,106
+9,Running Shoes,Clothing,2999,15
+10,Winter Jacket,Clothing,3499,52
+11,Kurta,Clothing,999,107
+12,Notebook (Pack of 5),Stationery,250,99
+13,Gel Pens (Pack of 10),Stationery,120,197
+14,Desk Organizer,Stationery,599,149
+15,Backpack,Accessories,1199,178
+16,Water Bottle,Accessories,349,5
+17,Sunglasses,Accessories,899,195
+18,Wrist Watch,Accessories,2199,147
+19,Mixer Grinder,Home,3299,97
+20,Electric Kettle,Home,1099,122
+21,Bed Sheet Set,Home,1599,1
+22,Table Lamp,Home,749,90
+23,Yoga Mat,Sports,699,76
+24,Cricket Bat,Sports,1899,192
+25,Football,Sports,899,99

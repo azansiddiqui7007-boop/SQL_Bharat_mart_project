@@ -1,0 +1,51 @@
+emp_id,first_name,last_name,gender,department_id,job_title,monthly_salary,hire_date,city
+1,Aarav,Nair,M,3,Marketing Associate,43000,2018-07-26,Mumbai
+2,Priya,Sharma,F,1,QA Analyst,61000,2022-09-01,Delhi
+3,Deepak,Yadav,M,6,Support Lead,36000,2019-06-22,Hyderabad
+4,Ankit,Mehta,M,2,Sales Manager,57000,2020-10-25,Pune
+5,Ankit,Mishra,M,1,Senior Engineer,54000,2018-02-01,Kanpur
+6,Nisha,Sharma,F,6,Support Lead,34000,2018-05-27,Mumbai
+7,Swati,Yadav,F,5,Accountant,77000,2021-01-21,Mumbai
+8,Nitin,Singh,M,3,Marketing Associate,71000,2019-08-12,Lucknow
+9,Anjali,Yadav,F,3,Marketing Associate,40000,2020-12-26,Hyderabad
+10,Manish,Yadav,M,2,Sales Executive,51000,2019-09-30,Chennai
+11,Kavya,Agarwal,F,6,Support Lead,40000,2019-06-19,Delhi
+12,Suresh,Sharma,M,3,Marketing Associate,49000,2017-09-29,Kanpur
+13,Nitin,Iyer,M,4,Recruiter,56000,2024-03-18,Pune
+14,Neha,Singh,F,6,Support Lead,37000,2019-12-13,Lucknow
+15,Pooja,Gupta,F,5,Accountant,60000,2017-07-12,Pune
+16,Ankit,Yadav,M,4,Recruiter,47000,2021-04-26,Chennai
+17,Meera,Das,F,1,QA Analyst,87000,2018-04-15,Hyderabad
+18,Ananya,Patel,F,4,Recruiter,33000,2017-01-14,Pune
+19,Suresh,Yadav,M,3,Marketing Associate,66000,2022-09-11,Pune
+20,Nisha,Gupta,F,5,Accountant,80000,2022-12-13,Kanpur
+21,Priya,Verma,F,3,Marketing Associate,67000,2020-06-13,Delhi
+22,Pranav,Joshi,M,1,Software Engineer,54000,2022-06-14,Pune
+23,Nitin,Iyer,M,5,Financial Analyst,46000,2022-12-02,Bengaluru
+24,Deepak,Patel,M,4,Recruiter,60000,2024-04-15,Chennai
+25,Ananya,Singh,F,2,Sales Executive,34000,2017-03-28,Bengaluru
+26,Vivaan,Nair,M,6,Support Agent,24000,2017-10-04,Kanpur
+27,Vikram,Singh,M,3,Marketing Associate,59000,2019-05-28,Chennai
+28,Ankit,Iyer,M,4,Recruiter,34000,2018-02-02,Kanpur
+29,Riya,Iyer,F,6,Support Agent,24000,2024-04-30,Delhi
+30,Shruti,Mishra,F,1,QA Analyst,63000,2019-02-19,Chennai
+31,Rahul,Gupta,M,3,Content Strategist,51000,2017-11-05,Mumbai
+32,Nitin,Khan,M,1,Software Engineer,103000,2019-08-27,Lucknow
+33,Anjali,Singh,F,4,Recruiter,57000,2018-11-06,Delhi
+34,Kavya,Agarwal,F,4,Recruiter,37000,2024-10-24,Pune
+35,Karan,Singh,M,1,Software Engineer,81000,2023-01-30,Kanpur
+36,Aarav,Joshi,M,4,HR Executive,44000,2022-12-16,Delhi
+37,Suresh,Gupta,M,1,Software Engineer,82000,2024-07-28,Lucknow
+38,Pranav,Joshi,M,2,Sales Executive,52000,2017-06-12,Lucknow
+39,Aditi,Patel,F,2,Sales Executive,56000,2020-07-10,Hyderabad
+40,Neha,Yadav,F,6,Support Agent,30000,2020-07-19,Delhi
+41,Divya,Joshi,F,1,QA Analyst,53000,2019-05-24,Hyderabad
+42,Pranav,Mishra,M,1,Senior Engineer,98000,2021-02-22,Pune
+43,Swati,Khan,F,6,Support Agent,30000,2024-05-02,Hyderabad
+44,Pranav,Gupta,M,3,Marketing Associate,38000,2018-03-15,Hyderabad
+45,Divya,Singh,F,6,Support Lead,31000,2024-09-16,Chennai
+46,Aditi,Agarwal,F,1,Senior Engineer,54000,2021-10-01,Delhi
+47,Amit,Mehta,M,2,Sales Executive,54000,2019-12-09,Chennai
+48,Meera,Sharma,F,1,Software Engineer,53000,2024-10-01,Delhi
+49,Divya,Khan,F,2,Sales Manager,47000,2017-06-21,Kanpur
+50,Pranav,Mishra,M,2,Sales Executive,56000,2024-06-24,Kanpur
